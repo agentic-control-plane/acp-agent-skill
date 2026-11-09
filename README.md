@@ -17,7 +17,7 @@ git clone https://github.com/agentic-control-plane/acp-agent-skill ~/.claude/ski
 ## Contents
 
 - [`SKILL.md`](SKILL.md): the skill itself (presence check, setup by situation, `acp_check` before risky actions, child keys for subagents, policy proposals you confirm)
-- [`references/setup.md`](references/setup.md): the four setup paths in detail, credential storage, verification, the nine MCP tools
+- [`references/setup.md`](references/setup.md): the four setup paths in detail, credential storage, verification, the MCP tools
 - [`references/child-keys.md`](references/child-keys.md): `POST /api/v1/keys/child` request/response shape, error codes, delegation rules
 
 ## Links
